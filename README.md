@@ -38,7 +38,7 @@ The app supports **three native providers** for scene composition. Switch betwee
 
 | Model | ID | Notes |
 |-------|----|-------|
-| Gemini 3 Flash | `gemini-3-flash-preview` | **Default** — frontier-class, fast |
+| Gemini 3 Flash Preview | `gemini-3-flash-preview` | **Default** — frontier-class, fast |
 | Gemini 3.1 Pro | `gemini-3.1-pro-preview` | Most advanced, agentic |
 | Gemini 3.1 Flash Image | `gemini-3.1-flash-image-preview` | Budget-friendly |
 
